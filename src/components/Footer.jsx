@@ -17,7 +17,6 @@ export default function Footer() {
           <ul>
             <li>Sayakat Travel LTD</li>
             <li>License TR-2025-0097</li>
-            <li>support@sayakat.com</li>
           </ul>
         </div>
         <div>
@@ -37,7 +36,6 @@ export default function Footer() {
         <div>
           <h4>{t("footer.contacts")}</h4>
           <ul>
-            <li>+996 (555) 000-111</li>
             <li>Bishkek, KG</li>
             <li>09:00–19:00 GMT+6</li>
           </ul>
